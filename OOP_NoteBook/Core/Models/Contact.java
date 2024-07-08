@@ -29,7 +29,6 @@ public class Contact implements Comparable<Contact>{
 
     @Override
     public int compareTo(Contact o) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
     }
 }
