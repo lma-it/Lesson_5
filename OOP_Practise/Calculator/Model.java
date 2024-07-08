@@ -1,4 +1,4 @@
-package OOP_Practise.Calculator;
+// package OOP_Practise.Calculator;
 
 public interface Model {
     int result();
